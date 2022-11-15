@@ -14,26 +14,11 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Books](#books)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
   - [Beginner Guides](#beginner-guides)
-  - [Writing Custom Providers](#writing-custom-providers)
   - [How-To](#how-to)
-  - [Multi-Environment Configuration](#multi-environment-configuration)
-  - [Azure](#azure)
-  - [AWS](#aws)
-  - [Google Cloud](#google-cloud)
-  - [Miscellaneous](#miscellaneous)
-- [Community Modules](#community-modules)
-- [Private Module Registries](#private-module-registries)
-- [Private Provider Registries](#private-provider-registries)
-- [Providers](#providers)
-  - [Hashicorp supported providers](#hashicorp-supported-providers)
-  - [Vendor supported providers](#vendor-supported-providers)
+- [Community Plugins](#community-modules)
 - [Testing](#testing)
 - [Tools](#tools)
-- [Libraries](#libraries)
-- [Boilerplates](#boilerplates)
-- [Terraform Enterprise](#terraform-enterprise)
 - [Videos](#videos)
-- [Editor Plugins](#editor-plugins)
 - [License](#license)
 
 ## Legend
@@ -44,3 +29,12 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 ## Official Resources
 
 - [CoreDNS Blog](https://coredns.io/blog/)
+- [Internal Plugins](https://coredns.io/plugins)
+- [External Plugins](https://coredns.io/explugins)
+- [Manual](https://coredns.io/manual)
+
+## Community
+
+- [Bug Tracker](https://github.com/coredns/coredns/issues)
+- [Twitter](https://twitter.com/corednsio)
+
