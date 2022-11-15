@@ -38,3 +38,11 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Bug Tracker](https://github.com/coredns/coredns/issues)
 - [Twitter](https://twitter.com/corednsio)
 
+## Books
+
+- [Learning CoreDNS](https://www.oreilly.com/library/view/learning-coredns/9781492047957/)
+
+
+## Tutorials and Blog Posts
+
+### Beginner Guides
