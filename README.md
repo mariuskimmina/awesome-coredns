@@ -13,8 +13,6 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Community](#community)
 - [Books](#books)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-  - [Beginner Guides](#beginner-guides)
-  - [How-To](#how-to)
 - [Community Plugins](#community-modules)
 - [Testing](#testing)
 - [Tools](#tools)
@@ -45,4 +43,12 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 ## Tutorials and Blog Posts
 
-### Beginner Guides
+- [A closer look at CoreDNS](https://blog.opstree.com/2020/06/16/a-closer-look-at-coredns/) - some description
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
