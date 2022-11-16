@@ -52,3 +52,16 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - []()
 - []()
 - []()
+
+
+## Videos
+
+- [Intro to CoreDNS](https://www.youtube.com/watch?v=ZFEa2pDpvws) - Intro to CoreDNS by Miek Gieben (Creator of CoreDNS)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
