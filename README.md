@@ -58,9 +58,9 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 - [Intro to CoreDNS](https://www.youtube.com/watch?v=ZFEa2pDpvws) - Intro to CoreDNS by Miek Gieben (Creator of CoreDNS)
 - [Understanding CoreDNS in Kubernetes](https://www.youtube.com/watch?v=qRiLmLACYSY) - An explanation of how CoreDNS works inside Kubernetes
-- [Deep dive into CoreDNS](https://www.youtube.com/watch?v=rNlSgYZoIYs&) - Talk about CoreDNS at KubeCon 2022
+- [Deep dive into CoreDNS](https://www.youtube.com/watch?v=rNlSgYZoIYs&) - Talk about CoreDNS at KubeCon Europe 2022
 - [CoreDNS beyond the basics](https://www.youtube.com/watch?v=ym1uWYzxpEE) - KubeCon 2019
-- []()
+- [CoreDNS Intro And Deep Dive](https://www.youtube.com/watch?v=6TkrrZLxQeo) - KubeCon North America 2022
 - []()
 - []()
 - []()
