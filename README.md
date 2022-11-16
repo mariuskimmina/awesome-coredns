@@ -47,7 +47,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [K8s - CoreDNS](https://blog.devgenius.io/k8s-dns-b798ea9db512) - text
 - [Using CoreDNS effectively with Kubernetes](https://medium.com/infracloud-technologies/using-coredns-effectively-with-kubernetes-bd79b05768f7) - text
 - []()
-- []()
+- [DNS caching gone wrong](https://qasim-sarfraz.medium.com/dns-caching-gone-wrong-a329dc00452e) - Migrating from dnsmasq to CoreDNS
 - []()
 - []()
 - []()
