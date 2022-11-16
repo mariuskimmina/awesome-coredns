@@ -62,6 +62,6 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [CoreDNS beyond the basics](https://www.youtube.com/watch?v=ym1uWYzxpEE) - KubeCon 2019
 - [CoreDNS Intro And Deep Dive](https://www.youtube.com/watch?v=6TkrrZLxQeo) - KubeCon North America 2022
 - [Introduction to CoreDNS](https://www.youtube.com/watch?v=um1ODpLrvsw) - Miek Gieben on the Rawkode Live Podcast
-- []()
+- [Building Custom CoreDNS Plugins](https://www.youtube.com/watch?v=ZffZzGbjy1k) - How to write your own CoreDNS plugin
 - []()
 
