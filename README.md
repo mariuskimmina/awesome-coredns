@@ -66,4 +66,4 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Kubernetes DNS Horror Stories (And How to Avoid Them)](https://www.youtube.com/watch?v=Yq-SVNa_W5E) - Datadog on there experiences with CoreDNS on Kubernetes
 - [Service Discovery with CoreDNS Plugins in Golang](https://www.youtube.com/watch?v=PtG0xlh5eSs) - KubeCon 2020 talk on creating a CoreDNS plugin
 - [Service Discovery With Hybrid and Multi-Cloud](https://www.youtube.com/watch?v=vvVmx0EDdkw) - KubeCon 2019 talk on how to setup CoreDNS for Multi-Cloud
-- []()
+- [Lightning Talk: Is Your Kubernetes Cluster's DNS Working?](https://www.youtube.com/watch?v=thBCB7YeZ2g) - KubeCon 2019 talk on DNS troubleshooting
