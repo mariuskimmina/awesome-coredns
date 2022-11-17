@@ -21,7 +21,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 ## Legend
 
-- Abandoned :skull:
+- Abandoned 
 - Monetized :heavy_dollar_sign:
 
 ## Official Resources
@@ -31,19 +31,20 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [External Plugins](https://coredns.io/explugins)
 - [Manual](https://coredns.io/manual)
 
+
 ## Community
 
 - [Bug Tracker](https://github.com/coredns/coredns/issues)
 - [Twitter](https://twitter.com/corednsio)
 
+
 ## Community Plguins
 
 - [CoreDNS Blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
+- [Ads](https://github.com/missdeer/ads) - DNS AdBlocker plugin for CoreDNS. :skull:
 - [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
 - [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
 - [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
-- [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
-
 
 
 ## Books
