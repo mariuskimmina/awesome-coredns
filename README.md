@@ -43,6 +43,8 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 ## Tutorials and Blog Posts
 
+### CoreDNS inside K8s
+
 - [A closer look at CoreDNS](https://medium.com/opstree-technology/a-closer-look-at-coredns-9968a1949577) - some description
 - [K8s - CoreDNS](https://blog.devgenius.io/k8s-dns-b798ea9db512) - text
 - [Using CoreDNS effectively with Kubernetes](https://medium.com/infracloud-technologies/using-coredns-effectively-with-kubernetes-bd79b05768f7) - text
@@ -53,6 +55,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - []()
 - []()
 
+### CoreDNS outside K8s
 
 ## Videos
 
