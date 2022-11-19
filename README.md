@@ -40,8 +40,23 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [CoreDNS Slack](https://slack.cncf.io)
 
 
-## Community Plguins
+## External Plguins
 
+### Listed on coredns.io
+- [finalize](https://github.com/tmeckel/coredns-finalizer) -  resolves CNAMEs to their IP address.
+- [kubenodes](https://github.com/infobloxopen/kubenodes) - A CoreDNS plugin to create records for Kubernetes nodes.
+- [multicluster](https://github.com/coredns/multicluster/) - CoreDNS plugin implementing K8s multi-cluster services DNS spec.
+- [ebpf](https://github.com/InfobloxOpen/ebpf) - A CoreDNS plugin that will attach an eBPF XDP program to a specified interface
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### Not listed on coredns.io
 - [CoreDNS Blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
 - [Ads](https://github.com/missdeer/ads) - DNS AdBlocker plugin for CoreDNS. :skull:
 - [Ipset](https://github.com/missdeer/ipset) - ipset plugin for CoreDNS
