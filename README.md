@@ -34,16 +34,18 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 ## Community
 
-- [Bug Tracker](https://github.com/coredns/coredns/issues)
-- [Twitter](https://twitter.com/corednsio)
+- [CoreDNS Bug Tracker](https://github.com/coredns/coredns/issues)
+- [CoreDNS Twitter](https://twitter.com/corednsio)
+- [CoreDNS Mailing List](coredns-discuss@googlegroups.com) 
+- [CoreDNS Slack](https://slack.cncf.io)
 
 
 ## Community Plguins
 
 - [CoreDNS Blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
 - [Ads](https://github.com/missdeer/ads) - DNS AdBlocker plugin for CoreDNS. :skull:
-- [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
-- [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
+- [Ipset](https://github.com/missdeer/ipset) - ipset plugin for CoreDNS
+- [Dnsredir](https://github.com/leiless/dnsredir) - Yet another seems better forward/proxy plugin for CoreDNS
 - [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
 
 
