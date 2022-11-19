@@ -91,14 +91,12 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [A closer look at CoreDNS](https://medium.com/opstree-technology/a-closer-look-at-coredns-9968a1949577) - some description
 - [K8s - CoreDNS](https://blog.devgenius.io/k8s-dns-b798ea9db512) - text
 - [Using CoreDNS effectively with Kubernetes](https://medium.com/infracloud-technologies/using-coredns-effectively-with-kubernetes-bd79b05768f7) - text
-- []()
 - [DNS caching gone wrong](https://qasim-sarfraz.medium.com/dns-caching-gone-wrong-a329dc00452e) - Migrating from dnsmasq to CoreDNS
-- []()
-- []()
-- []()
-- []()
+
 
 ### CoreDNS outside K8s
+
+- [run your own nameservers with coredns](https://www.gophp.io/run-your-own-nameservers-with-coredns/)
 
 ## Videos
 
