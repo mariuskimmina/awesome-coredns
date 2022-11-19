@@ -55,6 +55,15 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [k8s_dns_chaos](https://github.com/chaos-mesh/k8s_dns_chaos) - enables inject DNS chaos in a Kubernetes cluster for Chaos Engineering.
 - [records](https://github.com/coredns/records) - A plugin that enables serving (basic) zone data directly from the Corefile
 - [k8s_gateway](https://github.com/ori-edge/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources
+- [netbox](https://github.com/oz123/coredns-netbox-plugin/) - A coredns plugin to get dns records from Netbox
+- [mdns](https://github.com/openshift/coredns-mdns) - CoreDNS plugin that serves .local mDNS info over normal DNS
+- [wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics
+- [alias](https://github.com/serverwentdown/alias) - CoreDNS plugin for replacing CNAME records on zone apex
+- [fanout](https://github.com/networkservicemesh/fanout) - Repository for the coredns fanout plugin used by Network Service Mesh
+- [lighthouse](https://github.com/submariner-io/lighthouse/tree/devel/coredns/plugin) - Controller to facilitate DNS discovery in multi-cluster environments
+- [idetcd](https://github.com/jiachengxu/idetcd) - An etcd-based CoreDNS plugin used for identifying nodes in a cluster without domain name collisions.
+- [gravwell](https://github.com/gravwell/coredns) - Gravwell CoreDNS plugin
+- [amazondns](https://github.com/wadahiro/coredns-amazondns) - Amazon DNS plugin for CoreDNS
 
 ### Not listed on coredns.io
 - [CoreDNS Blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
