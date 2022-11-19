@@ -42,7 +42,6 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 ## External Plguins
 
-### Listed on coredns.io
 - [finalize](https://github.com/tmeckel/coredns-finalizer) -  resolves CNAMEs to their IP address.
 - [kubenodes](https://github.com/infobloxopen/kubenodes) - A CoreDNS plugin to create records for Kubernetes nodes.
 - [multicluster](https://github.com/coredns/multicluster/) - CoreDNS plugin implementing K8s multi-cluster services DNS spec.
@@ -72,13 +71,15 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [pdsql](https://github.com/wenerme/coredns-pdsql) - uses powerdns generic sql as backend.
 - [ipin](https://github.com/wenerme/coredns-ipin) - CoreDNS plugin resolve the domain to ip in domain name
 - [redis](https://github.com/arvancloud/redis) - redis plugin for coredns
-
-### Not listed on coredns.io
-- [CoreDNS Blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
-- [Ads](https://github.com/missdeer/ads) - DNS AdBlocker plugin for CoreDNS. :skull:
-- [Ipset](https://github.com/missdeer/ipset) - ipset plugin for CoreDNS
-- [Dnsredir](https://github.com/leiless/dnsredir) - Yet another seems better forward/proxy plugin for CoreDNS
-- [Bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
+- [demo](https://github.com/coredns/demo) - returns 1.1.1.1 for 172.0.0.0/8 or 127.0.0.0/8 and 8.8.8.8 otherwise
+- [example](https://github.com/coredns/example) - prints ‘example’ on every query received.
+- [ens](https://github.com/wealdtech/coredns-ens) - serve DNS records from the Ethereum Name Service.
+- [ipecho](https://github.com/Eun/coredns-ipecho) - parses the IP out of a subdomain and echos it back as an record
+- [blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
+- [ads](https://github.com/missdeer/ads) - DNS AdBlocker plugin for CoreDNS. :skull:
+- [ipset](https://github.com/missdeer/ipset) - ipset plugin for CoreDNS
+- [dnsredir](https://github.com/leiless/dnsredir) - Yet another seems better forward/proxy plugin for CoreDNS
+- [bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
 
 
 ## Books
