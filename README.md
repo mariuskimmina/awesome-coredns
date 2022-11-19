@@ -64,6 +64,14 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [idetcd](https://github.com/jiachengxu/idetcd) - An etcd-based CoreDNS plugin used for identifying nodes in a cluster without domain name collisions.
 - [gravwell](https://github.com/gravwell/coredns) - Gravwell CoreDNS plugin
 - [amazondns](https://github.com/wadahiro/coredns-amazondns) - Amazon DNS plugin for CoreDNS
+- [kubernetai](https://github.com/coredns/kubernetai) - Multiple Kubernetes in CoreDNS
+- [redisc](https://github.com/miekg/redis) - CoreDNS plugin implementing a shared cache using Redis
+- [unbound](https://github.com/coredns/unbound) - CoreDNS plugin that performs recursive queries using libunbound
+- [on](https://github.com/coredns/caddy/tree/master/onevent) - executes a command when a specified event is triggered.
+- [dump](https://github.com/miekg/dump) - dumps all incoming queries on standard output.
+- [pdsql](https://github.com/wenerme/coredns-pdsql) - uses powerdns generic sql as backend.
+- [ipin](https://github.com/wenerme/coredns-ipin) - CoreDNS plugin resolve the domain to ip in domain name
+- [redis](https://github.com/arvancloud/redis) - redis plugin for coredns
 
 ### Not listed on coredns.io
 - [CoreDNS Blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
