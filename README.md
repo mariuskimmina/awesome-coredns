@@ -47,14 +47,14 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [kubenodes](https://github.com/infobloxopen/kubenodes) - A CoreDNS plugin to create records for Kubernetes nodes.
 - [multicluster](https://github.com/coredns/multicluster/) - CoreDNS plugin implementing K8s multi-cluster services DNS spec.
 - [ebpf](https://github.com/InfobloxOpen/ebpf) - A CoreDNS plugin that will attach an eBPF XDP program to a specified interface
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [rrl](https://github.com/coredns/rrl) - Response Rate Limiting Plugin for CoreDNS
+- [mysql](https://coredns.io/explugins/mysql/) - MySQL backend for CoreDNS
+- [warnlist](https://coredns.io/explugins/warnlist/) - emits logs and Prometheus metrics when a listed domain is requested.
+- [git](https://github.com/miekg/coredns-git) - git middleware for Caddy
+- [alternate](https://github.com/coredns/alternate) - Plugin Alternate is able to selectively forward the query to another upstream server, depending the error result provided by the initial resolver
+- [k8s_dns_chaos](https://github.com/chaos-mesh/k8s_dns_chaos) - enables inject DNS chaos in a Kubernetes cluster for Chaos Engineering.
+- [records](https://github.com/coredns/records) - A plugin that enables serving (basic) zone data directly from the Corefile
+- [k8s_gateway](https://github.com/ori-edge/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources
 
 ### Not listed on coredns.io
 - [CoreDNS Blocklist](https://github.com/relekang/coredns-blocklist) - return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
