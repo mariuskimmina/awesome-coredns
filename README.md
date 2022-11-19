@@ -11,13 +11,10 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Legend](#legend)
 - [Official Resources](#official-resources)
 - [Community](#community)
+- [External Plugins](#external-plugins)
 - [Books](#books)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-- [Community Plugins](#community-modules)
-- [Testing](#testing)
-- [Tools](#tools)
 - [Videos](#videos)
-- [License](#license)
 
 ## Legend
 
