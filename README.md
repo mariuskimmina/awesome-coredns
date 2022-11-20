@@ -95,6 +95,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Using CoreDNS to Conceal Network Identities of Services in Istio](https://thecloudblog.net/post/using-coredns-to-conceal-network-identities-of-services-in-istio/)
 - [CoreDNS and Route53](https://nicks-playground.net/posts/2019-11-26-coredns-and-route53/)
 - [How to monitor CoreDNS](https://sysdig.es/blog/how-to-monitor-coredns/)
+- [Kubernetes DNS for Services and Pods](https://medium.com/kubernetes-tutorials/kubernetes-dns-for-services-and-pods-664804211501)
 
 
 ### CoreDNS outside K8s
@@ -103,6 +104,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Monitoring CoreDNS with Prometheus and New Relic](https://newrelic.com/blog/how-to-relic/monitor-coredns)
 - [Setup a forwarding DNS Sinkhole with DNS over TLS&HTTPS](https://jmattheis.de/blog/setup-a-forwarding-dns-sinkhole-with-dns-over-tlshttps)
 - [Coredns for local DNS resolution and forwarding over TLS (with Adblocking)](https://www.reddit.com/r/selfhosted/comments/jk9g61/coredns_for_local_dns_resolution_and_forwarding/)
+- 
 
 
 ## Videos
@@ -118,3 +120,4 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Service Discovery with CoreDNS Plugins in Golang](https://www.youtube.com/watch?v=PtG0xlh5eSs) - KubeCon 2020 talk on creating a CoreDNS plugin
 - [Service Discovery With Hybrid and Multi-Cloud](https://www.youtube.com/watch?v=vvVmx0EDdkw) - KubeCon 2019 talk on how to setup CoreDNS for Multi-Cloud
 - [Lightning Talk: Is Your Kubernetes Cluster's DNS Working?](https://www.youtube.com/watch?v=thBCB7YeZ2g) - KubeCon 2019 talk on DNS troubleshooting
+- [How DNS inside Kubernetes (CoreDNS) functions](https://www.youtube.com/watch?v=LBsZYPUUGuM) - Hand's on demo on the basic functioning of CoreDNS inside Microk8s, helping to resolve services and pods dns queries.
