@@ -19,8 +19,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 ## Legend
 
-- Abandoned 
-- Monetized :heavy_dollar_sign:
+- Abandoned :skull:
 
 ## Official Resources
 
