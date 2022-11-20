@@ -130,4 +130,5 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [perf-test](https://github.com/coredns/perf-tests) - Scripts and utilities for scale and performance testing of CoreDNS.
 - [deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
 - [helm](https://github.com/coredns/helm) - Helm Charts for CoreDNS
+- [corefile-migration](https://github.com/coredns/corefile-migration) - Library and tools for migrating the CoreDNS corefile
 - [ansible](https://github.com/cloudalchemy/ansible-coredns) - Deploy CoreDNS using ansible.
