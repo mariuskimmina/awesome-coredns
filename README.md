@@ -88,9 +88,9 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 
 ### CoreDNS inside K8s
 
-- [A closer look at CoreDNS](https://medium.com/opstree-technology/a-closer-look-at-coredns-9968a1949577) - some description
-- [K8s - CoreDNS](https://blog.devgenius.io/k8s-dns-b798ea9db512) - text
-- [Using CoreDNS effectively with Kubernetes](https://medium.com/infracloud-technologies/using-coredns-effectively-with-kubernetes-bd79b05768f7) - text
+- [A closer look at CoreDNS](https://medium.com/opstree-technology/a-closer-look-at-coredns-9968a1949577)
+- [K8s - CoreDNS](https://blog.devgenius.io/k8s-dns-b798ea9db512)
+- [Using CoreDNS effectively with Kubernetes](https://medium.com/infracloud-technologies/using-coredns-effectively-with-kubernetes-bd79b05768f7)
 - [DNS caching gone wrong](https://qasim-sarfraz.medium.com/dns-caching-gone-wrong-a329dc00452e) - Migrating from dnsmasq to CoreDNS
 - [Using CoreDNS to Conceal Network Identities of Services in Istio](https://thecloudblog.net/post/using-coredns-to-conceal-network-identities-of-services-in-istio/)
 - [CoreDNS and Route53](https://nicks-playground.net/posts/2019-11-26-coredns-and-route53/)
@@ -102,6 +102,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [run your own nameservers with coredns](https://www.gophp.io/run-your-own-nameservers-with-coredns/)
 - [Monitoring CoreDNS with Prometheus and New Relic](https://newrelic.com/blog/how-to-relic/monitor-coredns)
 - [Setup a forwarding DNS Sinkhole with DNS over TLS&HTTPS](https://jmattheis.de/blog/setup-a-forwarding-dns-sinkhole-with-dns-over-tlshttps)
+- [Coredns for local DNS resolution and forwarding over TLS (with Adblocking)](https://www.reddit.com/r/selfhosted/comments/jk9g61/coredns_for_local_dns_resolution_and_forwarding/)
 
 
 ## Videos
