@@ -77,6 +77,8 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [ipset](https://github.com/missdeer/ipset) - ipset plugin for CoreDNS
 - [dnsredir](https://github.com/leiless/dnsredir) - Yet another seems better forward/proxy plugin for CoreDNS
 - [bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
+- [dockerdiscovery](https://github.com/kevinjqiu/coredns-dockerdiscovery) - Docker Discovery Plugin for CoreDNS
+- 
 
 
 ## Books
@@ -126,3 +128,6 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 ## Tools
 
 - [perf-test](https://github.com/coredns/perf-tests) - Scripts and utilities for scale and performance testing of CoreDNS.
+- [deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
+- [helm](https://github.com/coredns/helm) - Helm Charts for CoreDNS
+- [ansible](https://github.com/cloudalchemy/ansible-coredns) - Deploy CoreDNS using ansible.
