@@ -133,3 +133,4 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [helm](https://github.com/coredns/helm) - Helm Charts for CoreDNS
 - [corefile-migration](https://github.com/coredns/corefile-migration) - Library and tools for migrating the CoreDNS corefile
 - [ansible](https://github.com/cloudalchemy/ansible-coredns) - Deploy CoreDNS using ansible.
+- [charmed CoreDNS operator](https://github.com/charmed-kubernetes/charm-coredns) - CoreDNS operator for [Charmed Kubernetes](https://github.com/charmed-kubernetes)
