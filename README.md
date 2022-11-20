@@ -78,7 +78,8 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [dnsredir](https://github.com/leiless/dnsredir) - Yet another seems better forward/proxy plugin for CoreDNS
 - [bogus](https://github.com/missdeer/bogus) - return NXDOMAIN directly if the resovled IP is in the bogus list.
 - [dockerdiscovery](https://github.com/kevinjqiu/coredns-dockerdiscovery) - Docker Discovery Plugin for CoreDNS
-- 
+- [dogstatd](https://github.com/segmentio/coredns-plugins/tree/master/dogstatsd) - publish coredns metrics to dogstatsd agents
+- [consul](https://github.com/segmentio/coredns-plugins/tree/master/consul) - DNS interface to consul with caching support
 
 
 ## Books
