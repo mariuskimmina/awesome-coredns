@@ -15,6 +15,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Books](#books)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 - [Videos](#videos)
+- [Tools](#tools)
 
 ## Legend
 
@@ -121,3 +122,8 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Service Discovery With Hybrid and Multi-Cloud](https://www.youtube.com/watch?v=vvVmx0EDdkw) - KubeCon 2019 talk on how to setup CoreDNS for Multi-Cloud
 - [Lightning Talk: Is Your Kubernetes Cluster's DNS Working?](https://www.youtube.com/watch?v=thBCB7YeZ2g) - KubeCon 2019 talk on DNS troubleshooting
 - [How DNS inside Kubernetes (CoreDNS) functions](https://www.youtube.com/watch?v=LBsZYPUUGuM) - Hand's on demo on the basic functioning of CoreDNS inside Microk8s, helping to resolve services and pods dns queries.
+
+
+## Tools
+
+- [perf-test](https://github.com/coredns/perf-tests) - Scripts and utilities for scale and performance testing of CoreDNS.
