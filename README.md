@@ -108,6 +108,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Setup a forwarding DNS Sinkhole with DNS over TLS&HTTPS](https://jmattheis.de/blog/setup-a-forwarding-dns-sinkhole-with-dns-over-tlshttps)
 - [Coredns for local DNS resolution and forwarding over TLS (with Adblocking)](https://www.reddit.com/r/selfhosted/comments/jk9g61/coredns_for_local_dns_resolution_and_forwarding/)
 - [CoreDNS: File Plugin for Lab Testing](https://cloudcult.dev/coredns-for-lab-testing/)
+- [Setup a local devenv with CoreDNS, SSH and Docker Swarm](https://dklesev.github.io/devenv/)
 
 
 ## Videos
