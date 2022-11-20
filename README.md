@@ -99,6 +99,8 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [CoreDNS and Route53](https://nicks-playground.net/posts/2019-11-26-coredns-and-route53/)
 - [How to monitor CoreDNS](https://sysdig.es/blog/how-to-monitor-coredns/)
 - [Kubernetes DNS for Services and Pods](https://medium.com/kubernetes-tutorials/kubernetes-dns-for-services-and-pods-664804211501)
+- [Creating greater reliability: CoreDNS-nodecache](https://www.contentful.com/blog/coredns-nodecache-blog/) 
+- [A Practical Guide to AWS Elastic Kubernetes Service Cross-Cluster Service Discovery using Consul](https://www.linkedin.com/pulse/practical-guide-aws-elastic-kubernetes-service-using-consul-rahul/)
 
 
 ### CoreDNS outside K8s
@@ -109,6 +111,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Coredns for local DNS resolution and forwarding over TLS (with Adblocking)](https://www.reddit.com/r/selfhosted/comments/jk9g61/coredns_for_local_dns_resolution_and_forwarding/)
 - [CoreDNS: File Plugin for Lab Testing](https://cloudcult.dev/coredns-for-lab-testing/)
 - [Setup a local devenv with CoreDNS, SSH and Docker Swarm](https://dklesev.github.io/devenv/)
+- [CoreDNS on MacOS for local development](https://brendanthompson.com/posts/2021/12/coredns-on-macos-for-local-development)
 
 
 ## Videos
@@ -125,6 +128,11 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Service Discovery With Hybrid and Multi-Cloud](https://www.youtube.com/watch?v=vvVmx0EDdkw) - KubeCon 2019 talk on how to setup CoreDNS for Multi-Cloud
 - [Lightning Talk: Is Your Kubernetes Cluster's DNS Working?](https://www.youtube.com/watch?v=thBCB7YeZ2g) - KubeCon 2019 talk on DNS troubleshooting
 - [How DNS inside Kubernetes (CoreDNS) functions](https://www.youtube.com/watch?v=LBsZYPUUGuM) - Hand's on demo on the basic functioning of CoreDNS inside Microk8s, helping to resolve services and pods dns queries.
+
+
+## Podcast Episodes
+
+- [CoreDNS, with John Belamaric](https://open.spotify.com/episode/7jU6ggH7OY68NonBpJ8NUd?si=-DQfwhzwTFqabrC8Cd72IQ&nd=1)
 
 
 ## Tools
