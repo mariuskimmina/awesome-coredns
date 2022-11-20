@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure you are about to post a valuable resource that belongs to this list
+- All spelling and grammar corrections are welcome
+- Feel free to create any new sections
 
 Thank you for your suggestions!
 
