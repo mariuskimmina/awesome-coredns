@@ -112,6 +112,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [CoreDNS: File Plugin for Lab Testing](https://cloudcult.dev/coredns-for-lab-testing/)
 - [Setup a local devenv with CoreDNS, SSH and Docker Swarm](https://dklesev.github.io/devenv/)
 - [CoreDNS on MacOS for local development](https://brendanthompson.com/posts/2021/12/coredns-on-macos-for-local-development)
+- [Run Your Own Home DNS on coredns](https://blog.idempotent.ca/2018/04/18/run-your-own-home-dns-on-coredns/)
 
 
 ## Videos
