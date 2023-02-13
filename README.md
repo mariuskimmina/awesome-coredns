@@ -101,6 +101,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Kubernetes DNS for Services and Pods](https://medium.com/kubernetes-tutorials/kubernetes-dns-for-services-and-pods-664804211501)
 - [Creating greater reliability: CoreDNS-nodecache](https://www.contentful.com/blog/coredns-nodecache-blog/) 
 - [A Practical Guide to AWS Elastic Kubernetes Service Cross-Cluster Service Discovery using Consul](https://www.linkedin.com/pulse/practical-guide-aws-elastic-kubernetes-service-using-consul-rahul/)
+- [K8s Troubleshooting — How to Debug CoreDNS Issues](https://medium.com/geekculture/k8s-troubleshooting-how-to-debug-coredns-issues-724e8b973cfc)
 
 
 ### CoreDNS outside K8s
@@ -114,6 +115,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [CoreDNS on MacOS for local development](https://brendanthompson.com/posts/2021/12/coredns-on-macos-for-local-development)
 - [Run Your Own Home DNS on coredns](https://blog.idempotent.ca/2018/04/18/run-your-own-home-dns-on-coredns/)
 - [Serve using CoreDNS file plugin](https://savvythrough.medium.com/serve-using-coredns-file-plugin-23b4b1e20d96)
+- [Serving dns in docker with coredns and consul agent](https://ilhicas.com/2023/01/25/Creating-a-core-dns-with-consul-docker-image.html)
 
 
 ## Videos
