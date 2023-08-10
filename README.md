@@ -94,7 +94,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [A closer look at CoreDNS](https://medium.com/opstree-technology/a-closer-look-at-coredns-9968a1949577)
 - [K8s - CoreDNS](https://blog.devgenius.io/k8s-dns-b798ea9db512)
 - [Using CoreDNS effectively with Kubernetes](https://medium.com/infracloud-technologies/using-coredns-effectively-with-kubernetes-bd79b05768f7)
-- [DNS caching gone wrong](https://qasim-sarfraz.medium.com/dns-caching-gone-wrong-a329dc00452e) - Migrating from dnsmasq to CoreDNS
+- [DNS caching gone wrong](https://qasim-sarfraz.medium.com/dns-caching-gone-wrong-a329dc00452e) - dnsmasq caching issues with CoreDNS
 - [Using CoreDNS to Conceal Network Identities of Services in Istio](https://thecloudblog.net/post/using-coredns-to-conceal-network-identities-of-services-in-istio/)
 - [CoreDNS and Route53](https://nicks-playground.net/posts/2019-11-26-coredns-and-route53/)
 - [How to monitor CoreDNS](https://sysdig.es/blog/how-to-monitor-coredns/)
@@ -102,6 +102,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Creating greater reliability: CoreDNS-nodecache](https://www.contentful.com/blog/coredns-nodecache-blog/) 
 - [A Practical Guide to AWS Elastic Kubernetes Service Cross-Cluster Service Discovery using Consul](https://www.linkedin.com/pulse/practical-guide-aws-elastic-kubernetes-service-using-consul-rahul/)
 - [K8s Troubleshooting — How to Debug CoreDNS Issues](https://medium.com/geekculture/k8s-troubleshooting-how-to-debug-coredns-issues-724e8b973cfc)
+- [It’s not always DNS — unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
 
 
 ### CoreDNS outside K8s
