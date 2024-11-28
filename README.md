@@ -103,6 +103,8 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [A Practical Guide to AWS Elastic Kubernetes Service Cross-Cluster Service Discovery using Consul](https://www.linkedin.com/pulse/practical-guide-aws-elastic-kubernetes-service-using-consul-rahul/)
 - [K8s Troubleshooting — How to Debug CoreDNS Issues](https://medium.com/geekculture/k8s-troubleshooting-how-to-debug-coredns-issues-724e8b973cfc)
 - [It’s not always DNS — unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
+- [Debugging DNS Request Flows in Kubernetes Clusters](https://www.containerdays.io/blog/debugging-dns-request-flows-in-kubernetes-clusters/).
+- [Debugging DNS with Inspektor Gadget](https://www.inspektor-gadget.io/docs/latest/gadgets/trace_dns).
 
 
 ### CoreDNS outside K8s
@@ -133,6 +135,7 @@ CoreDNS is a fast and flexible DNS server. The key word here is flexible: with C
 - [Service Discovery With Hybrid and Multi-Cloud](https://www.youtube.com/watch?v=vvVmx0EDdkw) - KubeCon 2019 talk on how to setup CoreDNS for Multi-Cloud
 - [Lightning Talk: Is Your Kubernetes Cluster's DNS Working?](https://www.youtube.com/watch?v=thBCB7YeZ2g) - KubeCon 2019 talk on DNS troubleshooting
 - [How DNS inside Kubernetes (CoreDNS) functions](https://www.youtube.com/watch?v=LBsZYPUUGuM) - Hand's on demo on the basic functioning of CoreDNS inside Microk8s, helping to resolve services and pods dns queries.
+- [Demystifying DNS: A Guide to Understanding and Debugging Request Flows in Kubernetes Clusters](https://youtu.be/KQpZg_NqbZw?) - Debugging Kubernetes DNS using CoreDNS log plugin, Hubble and Inspektor Gadget.
 
 
 ## Podcast Episodes
